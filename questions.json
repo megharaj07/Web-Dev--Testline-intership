@@ -1,0 +1,52 @@
+[
+    {
+        "question": "If the base sequence in DNA is 5' AAAT 3' then the base sequence in mRNA is :",
+        "options": ["A. 5'UUUU3'", "B. 3'UUUU5'", "C. 5'AAAU3'", "D. 3'AAAU5'"],
+        "correct": "C. 5'AAAU3'"
+    },
+    {
+        "question": "Avery, MacLeod and Mc Carty used the S(virulent) and R (avirulent) strains of streptococcus pneumoniae. They isolated and purified protein, DNA, RNA from the bacteria and treated them with related enzymes. They concluded that :",
+        "options": ["A. DNA was transforming agent", "B. RNA was transforming agent", "C. Protein was transforming agent", "D. All are correct"],
+        "correct": "A. DNA was transforming agent"
+    },
+    {
+        "question": "Identify the characteristic which is not applicable to the genetic code:",
+        "options": ["A. Non-Polar", "B. Non-Overlapping", "C. Commaless", "D. Universal"],
+        "correct": "A. Non-Polar"
+    },
+    {
+        "question": "Ribose is differentiable from deoxyribose in having :",
+        "options": ["A. Two extra oxygenn", "B. No oxygen", "C. Hydroxyl group at 2nd carbon", "D. One extra hydrogen"],
+        "correct": "C. Hydroxyl group at 2nd carbon"
+    },
+    {
+        "question": "A DNA strand is directly involved in the synthesis of all the following except:",
+        "options": ["A. Another DNA", "B. t-RNA & m-RNA", "C. r-RNA", "D. Protein"],
+        "correct": "D. Protein"
+    },
+    {
+        "question": "The genes are responsible for growth and differentiation in an organism through regulation of :",
+        "options": ["A. Translocation", "B. Transformation", "C. Transduction and translation", "D. Translation and transcription"],
+        "correct": "D. Translation and transcription"
+    },
+    {
+        "question": "Genetic information is carried out by long chain molecule made up of :",
+        "options": ["A. Amino acids", "B. Enzymes", "C. Nucleotides", "D. Histone proteins"],
+        "correct": "C. Nucleotides"
+    },
+    {
+        "question": "Anticodons are found in:",
+        "options": ["A. mRNA", "B. tRNA", "C. rRNA", "D. In all"],
+        "correct": "B. tRNA"
+    },
+    {
+        "question": "Which of the following element is not found in nitrogenous base :",
+        "options": ["A. Nitrogen", "B. Hydrogen", "C. Carbon", "D. Phosphorus"],
+        "correct": "D. Phosphorus"
+    },
+    {
+        "question": "Transfer of genetic information from a polymer of nucleotides to a polymer of amino acids is:",
+        "options": ["A. Replication", "B. Transcription", "C. Translation", "D. Reverse transcription"],
+        "correct": "C. Translation"
+    }
+]
